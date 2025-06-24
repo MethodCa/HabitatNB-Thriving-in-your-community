@@ -58,6 +58,7 @@
       <title>Thriving In Your Community</title>
       <item identifier="Thriving_In_Your_Community_SCO" isvisible="true" identifierref="__65IDs70Fl7k_course_id_RES">
         <title>Thriving In Your Community</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
       </item>
     </organization>
   </organizations>
@@ -74,13 +75,8 @@
       <file href="mobile/5y41XkD2XOQ_80.png" />
       <file href="story_content/5e64QnjjGja_44100_48_0.mp3" />
       <file href="mobile/6lMi9rIzsoo_80.png" />
-      <file href="mobile/6Zv4dmlXqnu_80.png" />
-      <file href="mobile/5eMlfkfIYDa_80.png" />
       <file href="story_content/6mv3ouavnzS_44100_48_0.mp3" />
       <file href="story_content/6EXU5QuaATi_44100_48_0.mp3" />
-      <file href="story_content/6hqH5Yv24wD_44100_48_0.mp3" />
-      <file href="story_content/6JXN8TEEfWr_44100_48_0.mp3" />
-      <file href="story_content/6alZwJkHlHF_44100_48_0.mp3" />
       <file href="mobile/6LDjYbG0w5i.png" />
       <file href="mobile/6EfEhDaPozi.png" />
       <file href="mobile/5seCuPKtUYR.png" />
@@ -108,47 +104,64 @@
       <file href="mobile/6jud9JW7hWV_80.jpg" />
       <file href="story_content/6NBi48p46bY_44100_48_0.mp3" />
       <file href="mobile/6Cn1hQcV17B_80.jpg" />
-      <file href="story_content/6mNnlX8tfIX_44100_48_0.mp3" />
       <file href="mobile/5g5j1Lid65Y_80.jpg" />
       <file href="mobile/63UZX7kU9ip_80.jpg" />
-      <file href="story_content/6RTJNhEHvOq_44100_48_0.mp3" />
       <file href="story_content/61v4gPsuRfA_44100_48_0.mp3" />
       <file href="story_content/6rN4uUfskjh_44100_48_0.mp3" />
+      <file href="story_content/6RTJNhEHvOq_44100_48_0.mp3" />
+      <file href="story_content/6mNnlX8tfIX_44100_48_0.mp3" />
       <file href="story_content/6kGUkcUVFrC_44100_48_0.mp3" />
       <file href="mobile/6Yp3C3EVXet_80.jpg" />
       <file href="mobile/5q3nYZJPkbv_80.jpg" />
       <file href="story_content/5p1j9uvK1F0_44100_48_0.mp3" />
       <file href="mobile/5YsJ09Wg2zV_80.jpg" />
-      <file href="story_content/6510f7Vv31R_44100_48_0.mp3" />
+      <file href="story_content/5f99MWmT2Ae_44100_48_0.mp3" />
+      <file href="story_content/6QhddoMjH7l_44100_48_0.mp3" />
       <file href="mobile/5bMH3T0JdGS_80.jpg" />
       <file href="mobile/5bkiRzwT11u_80.jpg" />
       <file href="mobile/5tbAPJ56QkV_80.jpg" />
+      <file href="mobile/5lRbfjuBh8N.png" />
+      <file href="mobile/5iY5U7pBTRN_80.jpg" />
+      <file href="mobile/670GwfJCOs9_80_P_0_99_1024_924.png" />
       <file href="meta.xml" />
-      <file href="mobile/6Ifk4lqDIQN.png" />
-      <file href="story_content/5gj2tC5uslj.png" />
-      <file href="story_content/63sWAeroOLr.png" />
+      <file href="mobile/6dkFgV2ce6d.png" />
+      <file href="story_content/5cRVNus4hU5.png" />
+      <file href="story_content/6nGLsyVlCST.png" />
       <file href="story_content/triggers.js" />
       <file href="story_content/user.js" />
       <file href="story_content/external_files/Thriving in your community.pdf" />
       <file href="story_content/external_files/Safety and Emergency Numbers.pdf" />
       <file href="mobile/Shape5v6GYlTg2tP.png" />
-      <file href="mobile/Shape5zYC9f5o0vP.png" />
+      <file href="mobile/txt__default_60acuwcXbth.png" />
       <file href="html5/data/css/output.min.css" />
       <file href="html5/data/js/5ckXty3WbeA.js" />
+      <file href="html5/data/js/5d9sOuPZ2ZH.js" />
+      <file href="html5/data/js/5kRsjXiPkJ6.js" />
       <file href="html5/data/js/5rbQAiZMOqO.js" />
+      <file href="html5/data/js/5ubKdXeX3AS.js" />
       <file href="html5/data/js/5ufNcLVMf87.js" />
+      <file href="html5/data/js/5uin0XgaWTk.js" />
       <file href="html5/data/js/5ZDM42312yJ.js" />
+      <file href="html5/data/js/62LTu802PB2.js" />
       <file href="html5/data/js/66CZ3XhhMY1.js" />
       <file href="html5/data/js/66FZ4Rb6P3E.js" />
       <file href="html5/data/js/67Ne9nmyAA8.js" />
       <file href="html5/data/js/6B5Pt4TfwUK.js" />
       <file href="html5/data/js/6cwaAtHWuPc.js" />
       <file href="html5/data/js/6dc2iqkxcBV.js" />
+      <file href="html5/data/js/6E0H5BHPJAf.js" />
       <file href="html5/data/js/6FBfU5LT42o.js" />
+      <file href="html5/data/js/6j82R5QwJe8.js" />
       <file href="html5/data/js/6jB49dpveNt.js" />
+      <file href="html5/data/js/6jCXEqVJSMC.js" />
+      <file href="html5/data/js/6kIvB9GaXnN.js" />
       <file href="html5/data/js/6kJCCAVcED8.js" />
       <file href="html5/data/js/6Ojt5NyHm42.js" />
       <file href="html5/data/js/6qIM26MdICy.js" />
+      <file href="html5/data/js/6QMSD2r5PSM.js" />
+      <file href="html5/data/js/6r0mMUFdsw6.js" />
+      <file href="html5/data/js/6UFHXwAcCaQ.js" />
+      <file href="html5/data/js/6XP89ZzZxwV.js" />
       <file href="html5/data/js/data.js" />
       <file href="html5/data/js/frame.js" />
       <file href="html5/data/js/paths.js" />
