@@ -20,7 +20,7 @@
           <option name="logo_enabled" value="true">
             <options>
               <option name="logo_url" />
-              <option name="html5_logo_url" value="mobile/6h1m6qqftSX.png" />
+              <option name="html5_logo_url" value="mobile/6BAvZu0Mjws.png" />
             </options>
           </option>
           <option name="sidebar_enabled" value="true">
@@ -76,7 +76,7 @@
           <option name="closed_captions" value="true" />
           <option name="settings" value="false" />
           <option name="fullScreenToggle" value="false" />
-          <option name="playbackSpeedControl" value="false" />
+          <option name="playbackSpeedControl" value="true" />
         </options>
       </optiongroup>
       <optiongroup name="bottombaroptions">
@@ -114,7 +114,7 @@
       <control name="swipeleft" enabled="false" />
       <control name="swiperight" enabled="false" />
       <control name="fullScreenToggle" enabled="false" />
-      <control name="playbackSpeedControl" enabled="false" />
+      <control name="playbackSpeedControl" enabled="true" />
       <control name="submit" enabled="true" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
@@ -139,7 +139,7 @@
       <control name="swipeleft" enabled="true" />
       <control name="swiperight" enabled="true" />
       <control name="fullScreenToggle" enabled="false" />
-      <control name="playbackSpeedControl" enabled="false" />
+      <control name="playbackSpeedControl" enabled="true" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
@@ -164,7 +164,7 @@
       <control name="swipeleft" enabled="false" />
       <control name="swiperight" enabled="true" />
       <control name="fullScreenToggle" enabled="false" />
-      <control name="playbackSpeedControl" enabled="false" />
+      <control name="playbackSpeedControl" enabled="true" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
@@ -189,7 +189,7 @@
       <control name="swipeleft" enabled="false" />
       <control name="swiperight" enabled="false" />
       <control name="fullScreenToggle" enabled="false" />
-      <control name="playbackSpeedControl" enabled="false" />
+      <control name="playbackSpeedControl" enabled="true" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
@@ -214,7 +214,7 @@
       <control name="swipeleft" enabled="true" />
       <control name="swiperight" enabled="true" />
       <control name="fullScreenToggle" enabled="false" />
-      <control name="playbackSpeedControl" enabled="false" />
+      <control name="playbackSpeedControl" enabled="true" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
@@ -239,7 +239,7 @@
       <control name="swipeleft" enabled="true" />
       <control name="swiperight" enabled="false" />
       <control name="fullScreenToggle" enabled="false" />
-      <control name="playbackSpeedControl" enabled="false" />
+      <control name="playbackSpeedControl" enabled="true" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
@@ -1435,163 +1435,163 @@
   <string_tables>
     <string_table name="npxnabnsnfns11111100111">
       <string id="acc_active">active</string>
-      <string id="acc_cc_hide">Hide captions (Ctrl+Alt+C)</string>
-      <string id="acc_cc_show">Show captions (Ctrl+Alt+C)</string>
       <string id="acc_closed_captions">Closed captions.</string>
       <string id="acc_definition">definition</string>
-      <string id="acc_enter_fullscreen">Enter full-screen (Ctrl+Alt+F)</string>
-      <string id="acc_exit_fullscreen">Exit full-screen (Ctrl+Alt+F)</string>
       <string id="acc_finish">finish</string>
-      <string id="acc_locked">locked</string>
-      <string id="acc_modern_video_captions">video captions</string>
-      <string id="acc_modern_video_fullscreen">full-screen video</string>
-      <string id="acc_modern_video_mute">mute video</string>
-      <string id="acc_modern_video_pause">pause video</string>
-      <string id="acc_modern_video_pip">picture-in-picture</string>
-      <string id="acc_modern_video_play">play video</string>
-      <string id="acc_modern_video_playback_speed">playback speed</string>
-      <string id="acc_modern_video_settings">video settings</string>
-      <string id="acc_modern_video_transcript">Open</string>
-      <string id="acc_modern_video_volume">video volume</string>
-      <string id="acc_mute">Mute (Ctrl+Alt+M)</string>
-      <string id="acc_next">next</string>
-      <string id="acc_next_visual">Next (Ctrl+Alt+.)</string>
-      <string id="acc_pause">pause</string>
-      <string id="acc_play">play</string>
-      <string id="acc_playback_speed">Playback speed</string>
-      <string id="acc_previous">previous</string>
-      <string id="acc_previous_visual">Previous (Ctrl+Alt+,)</string>
-      <string id="acc_replay">replay</string>
       <string id="acc_resources">resources</string>
-      <string id="acc_search_input">search</string>
-      <string id="acc_settings">Settings</string>
-      <string id="acc_skipnavigation">Back to top</string>
-      <string id="acc_slide_progress">slide progress</string>
-      <string id="acc_submit">submit</string>
       <string id="acc_submitall">submit all</string>
-      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
-      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
-      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
-      <string id="acc_unmute">Unmute (Ctrl+Alt+M)</string>
-      <string id="acc_video_transcript_list">Transcript</string>
-      <string id="acc_visited">visited</string>
       <string id="acc_volume">volume</string>
-      <string id="acc_window_close">Close</string>
-      <string id="acc_window_move">Move window</string>
-      <string id="acc_window_options">Options</string>
-      <string id="acc_window_resize">Resize window</string>
-      <string id="accessible_text">Accessible text</string>
-      <string id="acctext_shortcut">Toggle accessible text</string>
-      <string id="action">Action</string>
-      <string id="alt_key">Alt</string>
-      <string id="background_audio">Background audio</string>
-      <string id="background_audio_shortcut">Toggle background audio</string>
       <string id="bio">Bio</string>
       <string id="check_include">Check to include</string>
-      <string id="clear">Clear and return to menu</string>
-      <string id="close">Close</string>
-      <string id="closed_captions">Captions</string>
-      <string id="closedcaptions_shortcut">Toggle captions</string>
-      <string id="comma_key">Comma</string>
-      <string id="continueresponsive">Continue</string>
-      <string id="ctrl_key">Ctrl</string>
       <string id="definition">Definition</string>
-      <string id="desktop_start">Start Course</string>
-      <string id="disabled_orientation">Please rotate your device</string>
-      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
       <string id="exit">Exit</string>
-      <string id="filter">Filter</string>
       <string id="finish">FINISH</string>
-      <string id="fullscreen_shortcut">Toggle full-screen</string>
-      <string id="glossary">Glossary</string>
-      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
-      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
-      <string id="mobile_start">Start Course</string>
-      <string id="modern_video_captions_label">Captions</string>
-      <string id="modern_video_captions_off">Off</string>
-      <string id="modern_video_captions_on">On</string>
-      <string id="modern_video_normal_speed">Normal</string>
-      <string id="modern_video_playback_settings">Video Playback Settings</string>
-      <string id="modern_video_playback_speed_title">Playback Speed</string>
-      <string id="modern_video_settings_close">close video settings</string>
       <string id="more_info">More info</string>
-      <string id="mute_shortcut">Mute / unmute</string>
-      <string id="next">NEXT</string>
-      <string id="next_shortcut">Next</string>
-      <string id="outline">Menu</string>
-      <string id="outline_container">Menu</string>
-      <string id="period_key">Period</string>
-      <string id="playback_speed_normal">Normal</string>
-      <string id="playback_speed_title">Playback Speed</string>
-      <string id="playpause_shortcut">Play / pause</string>
-      <string id="prev">PREV</string>
-      <string id="previous_shortcut">Previous</string>
-      <string id="progress_hour">hour</string>
-      <string id="progress_hours">hours</string>
-      <string id="progress_minute">minute</string>
-      <string id="progress_minutes">minutes</string>
-      <string id="progress_second">second</string>
-      <string id="progress_seconds">seconds</string>
       <string id="question_list">Question List</string>
-      <string id="question_mark_key">Question mark</string>
-      <string id="replay_shortcut">Replay</string>
-      <string id="resources">Resources</string>
-      <string id="restart">Restart</string>
-      <string id="resume">Resume</string>
-      <string id="search">Search...</string>
-      <string id="search_in">Search in:</string>
-      <string id="search_results">Search Results</string>
-      <string id="search_toggle">Search</string>
       <string id="send_an_email">Send an email</string>
-      <string id="shift_key">Shift</string>
-      <string id="shortcut">Shortcut</string>
-      <string id="shortcuthelp">List keyboard shortcuts</string>
-      <string id="sidebar_toggle">Sidebar Toggle</string>
-      <string id="slide_text_chk">Slide Text</string>
-      <string id="streaming_video_local_playback_learn_more">Learn More</string>
-      <string id="streaming_video_local_playback_republish">To watch this video, use the preview feature in Storyline 360, upload your published output to a server, publish to Review 360, or switch to static video quality.</string>
-      <string id="streaming_video_local_playback_title">Streaming video is unavailable for local playback.</string>
-      <string id="submit">SUBMIT</string>
-      <string id="submit_shortcut">Submit</string>
       <string id="submitall">SUBMIT ALL</string>
-      <string id="terms">Terms</string>
+      <string id="three_image_progress_audio">progress</string>
       <string id="three_image_audio">audio</string>
       <string id="three_image_camera_down">camera moved down</string>
       <string id="three_image_camera_left">camera moved left</string>
       <string id="three_image_camera_right">camera moved right</string>
       <string id="three_image_camera_up">camera moved up</string>
-      <string id="three_image_count_of_total">%count% of %total%</string>
-      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
-      <string id="three_image_hotspot">hotspot</string>
-      <string id="three_image_instructions">Use the w, a, s, and d keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
-      <string id="three_image_interaction">360 degree image interaction</string>
       <string id="three_image_interaction_free">free exploration mode</string>
       <string id="three_image_interaction_guided">guided tour mode</string>
-      <string id="three_image_interaction_next">next</string>
-      <string id="three_image_interaction_prev">previous</string>
+      <string id="three_image_hotspot">hotspot</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
+      <string id="three_image_instructions">Use the w, a, s, and d keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
+      <string id="three_image_interaction">360 degree image interaction</string>
       <string id="three_image_label">label</string>
       <string id="three_image_marker">marker</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
+      <string id="three_image_interaction_next">next</string>
       <string id="three_image_pause_audio">pause audio</string>
       <string id="three_image_pause_video">pause video</string>
       <string id="three_image_play_audio">play audio</string>
       <string id="three_image_play_video">play video</string>
-      <string id="three_image_progress_audio">progress</string>
-      <string id="three_image_progress_video">progress</string>
+      <string id="three_image_interaction_prev">previous</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
+      <string id="three_image_count_of_total">%count% of %total%</string>
+      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
       <string id="three_image_tooltip">tooltip</string>
-      <string id="three_image_total_item">%total% item</string>
       <string id="three_image_total_items">%total% items</string>
+      <string id="three_image_total_item">%total% item</string>
+      <string id="three_image_progress_video">progress</string>
       <string id="three_image_video">video</string>
       <string id="three_image_video_volume">video volume</string>
+      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
+      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
+      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="background_audio">Background audio</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="modern_video_settings_close">close video settings</string>
+      <string id="acc_modern_video_fullscreen">full-screen video</string>
+      <string id="modern_video_playback_settings">Video Playback Settings</string>
+      <string id="modern_video_captions_off">Off</string>
+      <string id="modern_video_captions_on">On</string>
+      <string id="modern_video_captions_label">Captions</string>
+      <string id="acc_modern_video_settings">video settings</string>
+      <string id="acc_modern_video_mute">mute video</string>
+      <string id="modern_video_normal_speed">Normal</string>
+      <string id="acc_modern_video_pause">pause video</string>
+      <string id="acc_modern_video_pip">picture-in-picture</string>
+      <string id="acc_modern_video_play">play video</string>
+      <string id="modern_video_playback_speed_title">Playback Speed</string>
+      <string id="acc_modern_video_captions">video captions</string>
+      <string id="acc_modern_video_playback_speed">playback speed</string>
+      <string id="acc_modern_video_volume">video volume</string>
+      <string id="closed_captions">Captions</string>
+      <string id="comma_key">Comma</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="next">NEXT</string>
+      <string id="prev">PREV</string>
+      <string id="submit">SUBMIT</string>
+      <string id="playback_speed_title">Playback Speed</string>
+      <string id="playback_speed_normal">Normal</string>
+      <string id="continue">Continue</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="action">Action</string>
+      <string id="alt_key">Alt</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="mute_shortcut">Mute / unmute</string>
+      <string id="next_shortcut">Next</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="previous_shortcut">Previous</string>
+      <string id="replay_shortcut">Replay</string>
+      <string id="shift_key">Shift</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="submit_shortcut">Submit</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="background_audio_shortcut">Toggle background audio</string>
+      <string id="closedcaptions_shortcut">Toggle captions</string>
+      <string id="fullscreen_shortcut">Toggle full-screen</string>
       <string id="togglezoom">Switch zoom modes</string>
+      <string id="outline">Menu</string>
       <string id="transcript">Notes</string>
-      <string id="transcript_auto_scroll">Autoscroll</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="period_key">Period</string>
+      <string id="question_mark_key">Question mark</string>
+      <string id="resources">Resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="close">Close</string>
+      <string id="acc_locked">locked</string>
+      <string id="outline_container">Menu</string>
+      <string id="acc_next">next</string>
+      <string id="acc_previous">previous</string>
+      <string id="acc_search_input">search</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="acc_skipnavigation">Back to top</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="acc_visited">visited</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="search_in">Search in:</string>
+      <string id="filter">Filter</string>
+      <string id="search">Search...</string>
       <string id="transcript_chk">Notes</string>
-      <string id="transcript_show_timestamp">Show timestamps</string>
+      <string id="search_results">Search Results</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="streaming_video_local_playback_learn_more">Learn More</string>
+      <string id="streaming_video_local_playback_republish">To watch this video, use the preview feature in Storyline 360, upload your published output to a server, publish to Review 360, or switch to static video quality.</string>
+      <string id="streaming_video_local_playback_title">Streaming video is unavailable for local playback.</string>
+      <string id="acc_cc_hide">Hide captions (Ctrl+Alt+C)</string>
+      <string id="acc_cc_show">Show captions (Ctrl+Alt+C)</string>
+      <string id="acc_enter_fullscreen">Enter full-screen (Ctrl+Alt+F)</string>
+      <string id="acc_exit_fullscreen">Exit full-screen (Ctrl+Alt+F)</string>
+      <string id="acc_mute">Mute (Ctrl+Alt+M)</string>
+      <string id="acc_next_visual">Next (Ctrl+Alt+.)</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="acc_playback_speed">Playback speed</string>
+      <string id="acc_previous_visual">Previous (Ctrl+Alt+,)</string>
+      <string id="acc_replay">replay</string>
+      <string id="search_toggle">Search</string>
+      <string id="acc_settings">Settings</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_unmute">Unmute (Ctrl+Alt+M)</string>
+      <string id="transcript_auto_scroll">Autoscroll</string>
+      <string id="acc_window_close">Close</string>
+      <string id="acc_video_transcript_list">Transcript</string>
+      <string id="acc_window_move">Move window</string>
+      <string id="acc_modern_video_transcript">Open</string>
+      <string id="acc_window_resize">Resize window</string>
       <string id="video_transcript_resume_autoscroll">Resume autoscroll</string>
       <string id="video_transcript_select_track">Select track</string>
+      <string id="transcript_show_timestamp">Show timestamps</string>
       <string id="video_transcript_title">Transcripts</string>
-      <string id="zoom_to_fit">Zoom to fit</string>
-      <string id="continue">Continue</string>
+      <string id="acc_window_options">Options</string>
       <string id="invalid_prompt_button">OK</string>
       <string id="invalid_prompt_message">You must complete the question before submitting.</string>
       <string id="invalid_prompt_title">Invalid Answer</string>
@@ -1692,16 +1692,16 @@
       <slidetext slideid="6e4rCcfZ10Q.6kJCCAVcED8" slidebank="false" type="slide"> other things to consider  the average dog will cost you $3000 or more a year, including food and veterinary bills. can you comfortably afford the proper care needed with extra saved for emergency vet bills? are you willing to devote the necessary time for training and caring for your pet? will you supervise the animal’s behavior at all times, especially with visitors and small children? will you see to it that all animals, when outside, will be leashed? will you clean up your animal's waste (feces) in your yard and while on walks? will you have your pets spayed or neutered?  dogs, cats, birds and other animals are wonderful companions. many people love pets. however, not everyone finds animals appealing.  when pets are not properly trained and controlled by their owners, they can ruin relationships with your neighbours and community members. before getting an animal, you should be aware of what it takes to make it a good member of your family, and of your neighbourhood. responsible pet ownership  responsible pet ownership</slidetext>
       <slidetext slideid="6e4rCcfZ10Q.5ckXty3WbeA" slidebank="false" type="slide"> insurance  insurance is a very important part of being a good neighbour. we often think of insurance as help when something goes wrong for us. it also helps protect our neighbours. if you own a house you need to protect it and yourself from possible losses. those losses can happen a number of ways…  water - theft - flood - snow, or wind damagelegal liability a home insurance program provides coverage for those losses and makes sure that you have enough money to rebuild or replace what was lost. if you don’t have insurance, you may find yourself in a situation where you cannot fix your home and there will be an effect on the properties around you.  make certain your property insurance carries $2,000,000 liability. that way, if someone is injured while on your property your home ownership policy will assist with voluntary medical costs and insure you, should legal action be taken against you. having a solid understanding of your insurance policy before the need to use it, will help alleviate stress, should you need to make an insurance claim.  habitat for humanity new brunswick believes your home ownership journey should be a happy and celebrated one!  through thoughtfulness towards neighbours, abiding by the local by-laws and codes and being helpful within your neighbourhood, you will be well on your way to thriving in your community, year after year!</slidetext>
       <slidetext slideid="6e4rCcfZ10Q.66FZ4Rb6P3E" slidebank="false" type="slide">incorrect be a responsible pet owner by budgeting, socializing, training, and providing good care (food, water, love). don't let them roam or be aggressive. continue continue continue continue continue continue correct be a responsible pet owner by budgeting, socializing, training, and providing good care (food, water, love). don't let them roam or be aggressive. continue continue continue continue continue continue    some ways to be a responsible pet owner are: understanding the biggest expense to pet ownership will be the purchase of your pet. ensure your pet is properly socialized and trained to interact with others. let your pet remain outdoors and freely roam the neighbourhood. understanding the biggest expense to pet ownership will be the purchase of your pet. ensure your pet is properly socialized and trained to interact with others. let your pet remain outdoors and freely roam the neighbourhood. understanding the biggest expense to pet ownership will be the purchase of your pet. ensure your pet is properly socialized and trained to interact with others. let your pet remain outdoors and freely roam the neighbourhood. understanding the biggest expense to pet ownership will be the purchase of your pet. ensure your pet is properly socialized and trained to interact with others. let your pet remain outdoors and freely roam the neighbourhood. understanding the biggest expense to pet ownership will be the purchase of your pet. ensure your pet is properly socialized and trained to interact with others. let your pet remain outdoors and freely roam the neighbourhood. understanding the biggest expense to pet ownership will be the purchase of your pet. ensure your pet is properly socialized and trained to interact with others. let your pet remain outdoors and freely roam the neighbourhood. know the biggest expense associated with owning a pet will be proper nutrition. teach your pet to attack strangers. keep your pet tied up outside at all times. know the biggest expense associated with owning a pet will be proper nutrition. teach your pet to attack strangers. keep your pet tied up outside at all times. know the biggest expense associated with owning a pet will be proper nutrition. teach your pet to attack strangers. keep your pet tied up outside at all times. know the biggest expense associated with owning a pet will be proper nutrition. teach your pet to attack strangers. keep your pet tied up outside at all times. know the biggest expense associated with owning a pet will be proper nutrition. teach your pet to attack strangers. keep your pet tied up outside at all times. know the biggest expense associated with owning a pet will be proper nutrition. teach your pet to attack strangers. keep your pet tied up outside at all times.  select the correct answer make sure your budget can handle the cost of food, veterinary bills, training etc. ensure your pet is properly socialized and trained to interact with others. provide proper food, water, companionship and care for your pet.  make sure your budget can handle the cost of food, veterinary bills, training etc. ensure your pet is properly socialized and trained to interact with others. provide proper food, water, companionship and care for your pet.  make sure your budget can handle the cost of food, veterinary bills, training etc. ensure your pet is properly socialized and trained to interact with others. provide proper food, water, companionship and care for your pet.  make sure your budget can handle the cost of food, veterinary bills, training etc. ensure your pet is properly socialized and trained to interact with others. provide proper food, water, companionship and care for your pet.  make sure your budget can handle the cost of food, veterinary bills, training etc. ensure your pet is properly socialized and trained to interact with others. provide proper food, water, companionship and care for your pet.  make sure your budget can handle the cost of food, veterinary bills, training etc. ensure your pet is properly socialized and trained to interact with others. provide proper food, water, companionship and care for your pet.  submit submit submit submit submit submit</slidetext>
-      <slidetext slideid="5wQL7PavMgL.6WbgbBkHOgS" slidebank="false" type="slide"> emergency preparedness emergencies can happen anytime, so it’s important to be prepared. keep key numbers—like police, fire, poison control, and utility services—easily accessible. teach children how to use them and ensure your household knows what to do in case of an emergency. preparation shows care not just for your home, but for your entire community.    insurance awareness home insurance is crucial—it protects not only your property but also your neighbors from potential damage or liability. whether it’s from storms, theft, or accidents, being insured ensures you can recover without impacting others. understanding your policy in advance can save time and stress during emergencies. it's a responsible part of being a homeowner.   respecting neighbors' rights and privacy everyone has the right to peace and privacy in their home. respect boundaries, noise levels, and by-laws related to property and fire safety. educate your children about staying within your yard and keep additions within property lines. small actions like these prevent conflict and build stronger neighborly bonds.   responsible pet ownership pets can bring joy, but being a responsible owner is essential for harmony with your neighbors. before bringing home an animal, ask yourself if you can commit time, care, and finances. always leash pets in public and clean up after them. a well-behaved pet and a clean yard go a long way in keeping peace on your street.   dangerous and unsightly premises keeping your property free from junk, broken-down vehicles, and unsafe structures is not just courteous—it’s required. an untidy yard can pose health and safety risks to you and your community. make sure your space is free of hazards like flammable materials and derelict buildings. a clean exterior reflects pride and prevents neighborhood tension.   waste storage and disposal pride of ownership means taking care of your home and yard to reflect your commitment to the community and habitat for humanity’s values. this includes maintaining your lawn, clearing snow from walkways, and keeping your exterior tidy.  it’s not just about appearance—it’s about safety and respect. by caring for your home, you protect your investment and positively represent your neighborhood.   pride of ownership pride of ownership means taking care of your home and yard to reflect your commitment to the community and habitat for humanity’s values. this includes maintaining your lawn, clearing snow from walkways, and keeping your exterior tidy.  it’s not just about appearance—it’s about safety and respect. by caring for your home, you protect your investment and positively represent your neighborhood.  module review  let us review before going through the knowledge check. click on the arrows to continue </slidetext>
+      <slidetext slideid="5wQL7PavMgL.6WbgbBkHOgS" slidebank="false" type="slide"> emergency preparedness emergencies can happen anytime, so it’s important to be prepared. keep key numbers—like 911 for police, fire, or medical assistance. there is a different number for poison control, and utility services—easily accessible. teach children how to use them and ensure your household knows what to do in case of an emergency. preparation shows care not just for your home, but for your entire community.     insurance awareness home insurance is crucial—it protects not only your property but also your neighbors from potential damage or liability. whether it’s from storms, theft, or accidents, being insured ensures you can recover without impacting others. understanding your policy in advance can save time and stress during emergencies. it's a responsible part of being a homeowner.   respecting neighbors' rights and privacy everyone has the right to peace and privacy in their home. respect boundaries, noise levels, and by-laws related to property and fire safety. educate your children about staying within your yard and keep additions within property lines. small actions like these prevent conflict and build stronger neighborly bonds.   responsible pet ownership pets can bring joy, but being a responsible owner is essential for harmony with your neighbors. before bringing home an animal, ask yourself if you can commit time, care, and finances. always leash pets in public and clean up after them. a well-behaved pet and a clean yard go a long way in keeping peace on your street.   dangerous and unsightly premises keeping your property free from junk, broken-down vehicles, and unsafe structures is not just courteous—it’s required. an untidy yard can pose health and safety risks to you and your community. make sure your space is free of hazards like flammable materials and derelict buildings. a clean exterior reflects pride and prevents neighborhood tension.   waste storage and disposal pride of ownership means taking care of your home and yard to reflect your commitment to the community and habitat for humanity’s values. this includes maintaining your lawn, clearing snow from walkways, and keeping your exterior tidy.  it’s not just about appearance—it’s about safety and respect. by caring for your home, you protect your investment and positively represent your neighborhood.   pride of ownership pride of ownership means taking care of your home and yard to reflect your commitment to the community and habitat for humanity’s values. this includes maintaining your lawn, clearing snow from walkways, and keeping your exterior tidy.  it’s not just about appearance—it’s about safety and respect. by caring for your home, you protect your investment and positively represent your neighborhood.  module review  let us review before going through the knowledge check. click on the arrows to continue </slidetext>
       <slidetext slideid="5mpxxdvb7ym.6jCXEqVJSMC" slidebank="false" type="slide"> here’s a tip! you can click on the resources button (on the top right) to review the full document of this module before taking the quiz. let’s test your knowledge!  answer the following questions to see how much you’ve learned. you will need to get a score of at least 80% to pass this module  knowledge check get started get started get started get started get started get started</slidetext>
       <slidetext slideid="5mpxxdvb7ym.5uin0XgaWTk" slidebank="false" type="slide">incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right! neighbours have be respectful and not make loud noises at an unreasonable hour of the day. continue continue continue continue continue continue      scenario: this is your neighbourhood at 6 a.m. what should you should not be seeing or hearing that early in the morning?  (click the part of the image that best answers the question and then click submit)  knowledge check</slidetext>
       <slidetext slideid="5mpxxdvb7ym.6QMSD2r5PSM" slidebank="false" type="slide">incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right! garbage and other trash should be put in appropriate bins rather than being left out in the open. continue continue continue continue continue continue  when it comes to keeping your neighbourhood clean, what would you not expect to see here? (click the part of the image that best answers the question and then click submit)       knowledge check</slidetext>
-      <slidetext slideid="5mpxxdvb7ym.6kIvB9GaXnN" slidebank="false" type="slide">incorrect you did not select the correct response. continue continue continue continue continue continue correct check with your municipality’s building permit department to find out if paperwork is needed. also, check with habitat first, depending on the terms of your partnership agreement. continue continue continue continue continue continue   true true true true true true false false false false false false you have decided to build a shed in your backyard and you do not need permission from anyone to make it.  knowledge check</slidetext>
+      <slidetext slideid="5mpxxdvb7ym.6kIvB9GaXnN" slidebank="false" type="slide">incorrect you did not select the correct response. continue continue continue continue continue continue correct check with your town’s building permit department to find out if documents are needed. also, check with habitat if you plan to make changes. continue continue continue continue continue continue   true true true true true true false false false false false false you have decided to build a shed in your backyard and you do not need permission from anyone to make it.  knowledge check</slidetext>
       <slidetext slideid="5mpxxdvb7ym.6UFHXwAcCaQ" slidebank="false" type="slide">incorrect you did not select the correct response. continue continue continue continue continue continue correct there could be times when there's a ban due to dry conditions, or times when local laws don’t allow it. continue continue continue continue continue continue   true true true true true true false false false false false false scenario: you have a fire pit in your backyard. you are allowed to use it whenever you want because you own it and it is on your property.  knowledge check</slidetext>
       <slidetext slideid="5mpxxdvb7ym.6r0mMUFdsw6" slidebank="false" type="slide">incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right! instead find a depot close to you who accepts these items. continue continue continue continue continue continue   what can you do to avoid accumulating waste on your property.  (drag the correct answer to the top.)  make sure organic material is left out on the sidewalk practice proper recycling only when you feel like it put yard waste out at appropriate times throughout the year never put hazardous waste or electronics out for pick up  knowledge check</slidetext>
       <slidetext slideid="5mpxxdvb7ym.5ubKdXeX3AS" slidebank="false" type="slide">incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right! make sure that items are clean and sorted when put into bins or bags. continue continue continue continue continue continue   what can you do to avoid accumulation waste on your property.  (drag the correct answer to the top.)  make sure organic material is left out on the sidewalk practice proper recycling put yard waste out at appropriate times throughout the year put hazardous waste or electronics out on the curb for pick up  knowledge check</slidetext>
       <slidetext slideid="5mpxxdvb7ym.6E0H5BHPJAf" slidebank="false" type="slide">incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right!  you selected the correct response. continue continue continue continue continue continue   $3000 time supervision leash waste matching type. before getting an animal you should be aware of what it takes to make it a good member of your family and your neighbourhood. (drag each puzzle piece on the right to its correct match on the left.) the average yearly expense for owning a dog. what is needed for training and taking care of a pet essential when pets are with guests or small children should be used whenever your pet is outside the house. what you are expected to clean up when walking your dog  knowledge check</slidetext>
-      <slidetext slideid="5mpxxdvb7ym.62LTu802PB2" slidebank="false" type="slide">incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right! insurance is a very important part about being a good neighbour. we often think of insurance as help when something goes wrong for us. it also helps protect our neighbours. if you own a house you need to protect it and yourself from possible losses. continue continue continue continue continue continue   type your answer here homeowners need __________ to cover risks and protect their home, property, and community.  knowledge check</slidetext>
+      <slidetext slideid="5mpxxdvb7ym.62LTu802PB2" slidebank="false" type="slide">incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right! we often think of insurance as help when something goes wrong for us. it also helps protect our neighbours. continue continue continue continue continue continue   type your answer here homeowners need __________ to cover risks and protect their home, property, and community.  knowledge check</slidetext>
       <slidetext slideid="5mpxxdvb7ym.5kRsjXiPkJ6" slidebank="false" type="slide">incorrect you did not select the correct response. continue continue continue continue continue continue correct that's right!  ensure you are calling this number only for emergencies. continue continue continue continue continue continue   type your text here what number should you call in case of emergency?   knowledge check</slidetext>
       <slidetext slideid="5mpxxdvb7ym.6j82R5QwJe8" slidebank="false" type="slide">incorrect you did not select the correct response(s). continue continue continue continue continue continue correct that's right!  you selected the correct response. continue continue continue continue continue continue   fire fire fire fire fire fire police police police police police police hydro emergency hydro emergency hydro emergency hydro emergency hydro emergency hydro emergency poison control poison control poison control poison control poison control poison control community resources community resources community resources community resources community resources community resources insurance insurance insurance insurance insurance insurance the emergency number should be used to call which of the options below? (select all that apply.) ambulance ambulance ambulance ambulance ambulance ambulance  knowledge check</slidetext>
       <slidetext slideid="6Ew9i841W1v.6FBfU5LT42o" slidebank="false" type="slide"> wrapping up  responsible homeownership includes maintaining your property, managing waste properly, and upholding safety standards to reflect pride of ownership and protect your investment. being a good neighbour means showing respect, empathy, and consideration—building strong community ties through everyday actions and mutual support. following local by-laws and preparing for emergencies ensures you stay compliant, avoid conflicts or fines, and protect your household and community in unexpected situations. in this module you have learned:</slidetext>
@@ -1710,8 +1710,8 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='NeueHaasGroteskDisp Pro' style='font-size: 11px;' size='11' color='#464646'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/Thriving in your community.pdf" image="story_content/6kZ406OrNVI.png" title="Thriving In Your Community (36.2 Mb)" />
-      <resource url="story_content/external_files/Safety and Emergency Numbers.pdf" image="story_content/5bcEm1senVH.png" title="Safety and Emergency Numbers (107 Kb)" />
+      <resource url="story_content/external_files/Thriving in your community.pdf" image="story_content/6VYFqiorsH0.png" title="Thriving In Your Community (36.2 Mb)" />
+      <resource url="story_content/external_files/Safety and Emergency Numbers.pdf" image="story_content/5gdVRBMvLQo.png" title="Safety and Emergency Numbers (107 Kb)" />
     </resources>
   </resource_data>
   <transcript_data />
