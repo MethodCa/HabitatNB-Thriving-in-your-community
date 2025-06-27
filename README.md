@@ -1,2 +1,3 @@
-# HabitatNB-Thriving-in-your-community
-Module 4
+# HabitatNB-Learning Management System
+Module 4 - Thriving in your community
+Made from Articulate Storyline 360
