@@ -65,14 +65,14 @@
   <resources>
     <resource identifier="__65IDs70Fl7k_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
-      <file href="mobile/6LwygzMAzrr_80.png" />
       <file href="story_content/6dX53wWrTvh_44100_48_0.mp3" />
       <file href="story_content/5rcaAHAhqKX_44100_48_0.mp3" />
+      <file href="mobile/6LwygzMAzrr_80.png" />
+      <file href="story_content/6GDswhPVd52_44100_48_0.mp3" />
       <file href="mobile/6BqPkpfCx1D_80.png" />
       <file href="story_content/5vr62yORlv3_44100_48_0.mp3" />
       <file href="mobile/6SDw6MSF2F1.png" />
       <file href="mobile/6Etb5fdXI0w.png" />
-      <file href="story_content/6GDswhPVd52_44100_48_0.mp3" />
       <file href="story_content/5rgiijIfWgT_44100_48_0.mp3" />
       <file href="story_content/6I8dKLAOYqK_44100_48_0.mp3" />
       <file href="story_content/5nVCKHDVlJ5_44100_48_0.mp3" />
@@ -123,7 +123,8 @@
       <file href="story_content/69ihDq38qr0_44100_48_0.mp3" />
       <file href="story_content/5yxU8kXLZ8Q_44100_48_0.mp3" />
       <file href="story_content/6iQOq21Nf9k_44100_48_0.mp3" />
-      <file href="mobile/63gfiNHmgOv_80.jpg" />
+      <file href="mobile/6LH0JW8jQrs_80.jpg" />
+      <file href="mobile/6hVSgsNm3rW.png" />
       <file href="story_content/6jqMFIIOnVR_44100_48_0.mp3" />
       <file href="mobile/6XS8NSMl4kw_80.jpg" />
       <file href="story_content/6U44mkvTp0i_44100_48_0.mp3" />
@@ -175,15 +176,14 @@
       <file href="story_content/62LT1TU91fq_44100_48_0.mp3" />
       <file href="mobile/670GwfJCOs9_80_P_0_99_1024_924.png" />
       <file href="meta.xml" />
-      <file href="mobile/6BAvZu0Mjws.png" />
-      <file href="story_content/6VYFqiorsH0.png" />
-      <file href="story_content/5gdVRBMvLQo.png" />
+      <file href="mobile/6GnenwDhe5G.png" />
+      <file href="story_content/6rHIqoPBzkn.png" />
+      <file href="story_content/6OCL5msZ8SI.png" />
       <file href="story_content/triggers.js" />
       <file href="story_content/user.js" />
       <file href="story_content/external_files/Thriving in your community.pdf" />
       <file href="story_content/external_files/Safety and Emergency Numbers.pdf" />
       <file href="mobile/Shape5v6GYlTg2tP.png" />
-      <file href="mobile/txt__default_60acuwcXbth.png" />
       <file href="html5/data/css/output.min.css" />
       <file href="html5/data/js/5ckXty3WbeA.js" />
       <file href="html5/data/js/5d9sOuPZ2ZH.js" />
