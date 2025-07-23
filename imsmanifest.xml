@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_65IDs70Fl7k_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_6hYASEOxLqr_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
@@ -56,14 +56,14 @@
   <organizations default="Thriving_In_Your_Community_ORG">
     <organization identifier="Thriving_In_Your_Community_ORG">
       <title>Thriving In Your Community</title>
-      <item identifier="Thriving_In_Your_Community_SCO" isvisible="true" identifierref="__65IDs70Fl7k_course_id_RES">
+      <item identifier="Thriving_In_Your_Community_SCO" isvisible="true" identifierref="__6hYASEOxLqr_course_id_RES">
         <title>Thriving In Your Community</title>
         <adlcp:masteryscore>80</adlcp:masteryscore>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__65IDs70Fl7k_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__6hYASEOxLqr_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="story_content/6dX53wWrTvh_44100_48_0.mp3" />
       <file href="story_content/5rcaAHAhqKX_44100_48_0.mp3" />
@@ -89,7 +89,7 @@
       <file href="story_content/6NYDb71sfa1_44100_48_0.mp3" />
       <file href="mobile/6EfEhDaPozi.png" />
       <file href="story_content/6a0DwRlEFj5_44100_48_0.mp3" />
-      <file href="story_content/6RUeC8IMZ89_44100_48_0.mp3" />
+      <file href="story_content/5mm01oc4rWs_44100_48_0.mp3" />
       <file href="story_content/6YRR1gJd8VZ_44100_48_0.mp3" />
       <file href="story_content/5a6CZoMk0ut_44100_48_0.mp3" />
       <file href="story_content/6j2VC0tqCW9_44100_48_0.mp3" />
@@ -167,7 +167,8 @@
       <file href="story_content/6pBLbkPAcLP_44100_48_0.mp3" />
       <file href="story_content/5gJgiYvJesw_44100_48_0.mp3" />
       <file href="mobile/5lRbfjuBh8N.png" />
-      <file href="mobile/5iY5U7pBTRN_80.jpg" />
+      <file href="mobile/5iY5U7pBTRN_80_P_0_142_562_285.jpg" />
+      <file href="mobile/5iY5U7pBTRN_80_P_142_142_565_285.jpg" />
       <file href="story_content/5xlZtxTi5Kv_44100_48_0.mp3" />
       <file href="story_content/5nALWu9N4G7_44100_48_0.mp3" />
       <file href="story_content/6fd4zXGPzX1_44100_48_0.mp3" />
@@ -176,9 +177,9 @@
       <file href="story_content/62LT1TU91fq_44100_48_0.mp3" />
       <file href="mobile/670GwfJCOs9_80_P_0_99_1024_924.png" />
       <file href="meta.xml" />
-      <file href="mobile/6GnenwDhe5G.png" />
-      <file href="story_content/6rHIqoPBzkn.png" />
-      <file href="story_content/6OCL5msZ8SI.png" />
+      <file href="mobile/64DesatN78y.png" />
+      <file href="story_content/651tD79ldQH.png" />
+      <file href="story_content/5vQJKC0fI6C.png" />
       <file href="story_content/triggers.js" />
       <file href="story_content/user.js" />
       <file href="story_content/external_files/Thriving in your community.pdf" />
